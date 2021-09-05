@@ -18,13 +18,10 @@ const Home: NextPage = () => {
         </h1>
 
         <p className={styles.description}>
-          There is nothing to look at currently
+          There is nothing to look at currently,
+          please be patient.
         </p>
       </main>
-
-      <footer className={styles.footer}>
-        this is a footer
-      </footer>
     </div>
   )
 }
